@@ -2,7 +2,7 @@
 
 Its home work project for course "From Zero to Hero"
 
-Its game "Tic-tak-toe"
+This is game "Tic-tak-toe"
 
 
 That script has one bug. To exit the application, press the NO button twice. If you have any ideas on how to fix this, make your comment :)
